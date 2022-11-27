@@ -93,6 +93,7 @@
             "description": "Each Compendium pack must designate which type of Entity it contains.",
             "enum": [
               "Actor",
+              "Adventure",
               "Item",
               "Journal",
               "JournalEntry",
